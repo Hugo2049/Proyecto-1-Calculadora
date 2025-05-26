@@ -1,5 +1,6 @@
 import styles from './App.module.css'
 import Calculadora from './Calculadora/Calculadora'
+import React from 'react'
 
 function App() {
   return (

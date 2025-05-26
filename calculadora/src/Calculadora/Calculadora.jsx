@@ -2,6 +2,7 @@ import useCalculator from '../hooks/useCalculator'
 import Display from '../components/Display/Display'
 import Button from '../components/Button/Button'
 import styles from './Calculadora.module.css'
+import React from 'react'
 
 const Calculadora = () => {
   const {
